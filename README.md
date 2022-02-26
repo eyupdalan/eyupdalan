@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: eyupdalan@gmail.com
 
 ### 🏆 Github Status
-<a href="https://github.com/ZQ-jhon" target="__blank">
+<a href="https://github.com/eyupdalan" target="__blank">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyupdalan&layout=compact&theme=react" alt="eyupdalan's top languages" />
 </a>
 
